@@ -1,2 +1,4 @@
-Example Project
 Garbage Truck
+Oxygen Pump
+Military Remote
+Combat Knife

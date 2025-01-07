@@ -1,0 +1,9 @@
+Military Remote
+---
+3D Model of a futuristic military remote, original design by Mark Sanwel.
+---
+Blender, Krita
+---
+https://i.imgur.com/uvm0UrT.png
+---
+militaryremote.html

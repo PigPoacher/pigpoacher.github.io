@@ -1,0 +1,9 @@
+Combat Knife
+---
+3D Model of a stylized combat knife, original design by Frederik Jeppesen.
+---
+Blender, Krita
+---
+https://i.imgur.com/uR7FbB0.png
+---
+combatknife.html
