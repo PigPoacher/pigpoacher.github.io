@@ -1,6 +1,6 @@
 Combat Knife
 ---
-3D Model of a stylized combat knife, original design by Frederik Jeppesen.
+3D Model of a stylized combat knife, original design by Frederik Jeppesen. https://www.artstation.com/artwork/d0lX9W
 ---
 Blender, Krita
 ---

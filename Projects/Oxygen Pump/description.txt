@@ -1,6 +1,6 @@
 Oxygen Pump
 ---
-3D Model of a gas-station-like pump for oxygen, original design by Tanya Shcer.
+3D Model of a gas-station-like pump for oxygen, original design by Tanya Shcer. https://www.artlex.com/blog/prop-concept-art/
 ---
 Blender, Krita
 ---

@@ -1,6 +1,6 @@
 Sci-Fi Drone
 ---
-Sci-Fi Drone model and animation, original concept by Roc H (https://www.artstation.com/artwork/lRQJLk).
+Sci-Fi Drone model and animation, original concept by Roc H. https://www.artstation.com/artwork/lRQJLk
 ---
 Blender, Krita
 ---
