@@ -1,3 +1,4 @@
 Blender
 Davinci Resolve
 Affinity Suite
+Krita
