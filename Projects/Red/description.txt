@@ -1,0 +1,9 @@
+Red - Transistor VTuber Model
+---
+Rigged model of the character 'Red' from the game 'Transistor' used for VTubing.
+---
+Blender, Krita
+---
+https://i.imgur.com/EIVZ2F7.png
+---
+red.html

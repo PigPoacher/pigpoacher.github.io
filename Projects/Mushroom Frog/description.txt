@@ -1,0 +1,9 @@
+Frog and Mushroom VTuber Model
+---
+Rigged model of a mushroom and frog used for VTubing.
+---
+Blender, Krita
+---
+https://i.imgur.com/1OPY7rK.png
+---
+mushroomfrog.html

@@ -1,0 +1,9 @@
+Wheatley - Portal VTuber Model
+---
+Rigged model of the character 'Wheatley' from the game 'Portal' used for VTubing.
+---
+Blender, Krita
+---
+https://i.imgur.com/Zj91Hhz.png
+---
+wheatley.html
